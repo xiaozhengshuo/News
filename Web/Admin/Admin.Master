@@ -1,0 +1,54 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Admin.master.cs" Inherits="Web.Admin.Admin" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head id="Head1" runat="server">
+    <title>管理员</title>
+     <link href="~/NewsPage.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div id="container">
+  
+        <div id="header2"></div>
+
+
+        <div id="navtext">
+            您现在的位置：
+            <asp:SiteMapPath ID="SiteMapPath1" runat="server">
+            </asp:SiteMapPath>
+        </div>
+
+
+        <div id="col1_list">
+            <div class="box">
+               
+                <div class="box_text">
+                    <asp:TreeView ID="tvAdmin" runat="server" DataSourceID="XmlDataSource1">
+                        <DataBindings>
+                            <asp:TreeNodeBinding DataMember="siteMapNode" NavigateUrlField="url" TextField="title" />
+                        </DataBindings>
+                    </asp:TreeView>
+                    <asp:XmlDataSource ID="XmlDataSource1" runat="server" DataFile="~/Admin/AdminTreeView.xml">
+                    </asp:XmlDataSource>
+                </div>
+            </div>
+        </div>
+        <div id="col2_list">
+            <div class="box">
+              
+                <div class="box_text">
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    </asp:ContentPlaceHolder>
+                </div>
+            </div>
+        </div>
+
+        <div id="footer">
+            Copyright &copy;计算机应用技术专业2017210407 肖正烁 2017-2020, All Rights Reserved. </div>
+  
+    </div>
+    </form>
+</body>
+</html>

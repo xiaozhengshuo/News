@@ -1,0 +1,26 @@
+E:\2017210329彭永腾\web程序开发\项目文件\News\NewsModels\bin\Debug\NewsModels.dll
+E:\2017210329彭永腾\web程序开发\项目文件\News\NewsModels\bin\Debug\NewsModels.pdb
+E:\2017210329彭永腾\web程序开发\项目文件\News\NewsModels\obj\Debug\ResolveAssemblyReference.cache
+E:\2017210329彭永腾\web程序开发\项目文件\News\NewsModels\obj\Debug\NewsModels.dll
+E:\2017210329彭永腾\web程序开发\项目文件\News\NewsModels\obj\Debug\NewsModels.pdb
+F:\程序及文件\零时文件夹\News\NewsModels\bin\Debug\NewsModels.dll
+F:\程序及文件\零时文件夹\News\NewsModels\bin\Debug\NewsModels.pdb
+F:\程序及文件\零时文件夹\News\NewsModels\obj\Debug\NewsModels.csproj.CoreCompileInputs.cache
+F:\程序及文件\零时文件夹\News\NewsModels\obj\Debug\NewsModels.dll
+F:\程序及文件\零时文件夹\News\NewsModels\obj\Debug\NewsModels.pdb
+F:\News (3)\NewsModels\bin\Debug\NewsModels.dll
+F:\News (3)\NewsModels\bin\Debug\NewsModels.pdb
+F:\News (3)\NewsModels\obj\Debug\NewsModels.dll
+F:\News (3)\NewsModels\obj\Debug\NewsModels.pdb
+F:\程序及文件\零时文件夹\News4\News4\NewsModels\bin\Debug\NewsModels.dll
+F:\程序及文件\零时文件夹\News4\News4\NewsModels\bin\Debug\NewsModels.pdb
+F:\程序及文件\零时文件夹\News4\News4\NewsModels\obj\Debug\NewsModels.csprojResolveAssemblyReference.cache
+F:\程序及文件\零时文件夹\News4\News4\NewsModels\obj\Debug\NewsModels.csproj.CoreCompileInputs.cache
+F:\程序及文件\零时文件夹\News4\News4\NewsModels\obj\Debug\NewsModels.dll
+F:\程序及文件\零时文件夹\News4\News4\NewsModels\obj\Debug\NewsModels.pdb
+F:\浏览器下载文件\结课检查\News4\NewsModels\bin\Debug\NewsModels.dll
+F:\浏览器下载文件\结课检查\News4\NewsModels\bin\Debug\NewsModels.pdb
+F:\浏览器下载文件\结课检查\News4\NewsModels\obj\Debug\NewsModels.csprojAssemblyReference.cache
+F:\浏览器下载文件\结课检查\News4\NewsModels\obj\Debug\NewsModels.csproj.CoreCompileInputs.cache
+F:\浏览器下载文件\结课检查\News4\NewsModels\obj\Debug\NewsModels.dll
+F:\浏览器下载文件\结课检查\News4\NewsModels\obj\Debug\NewsModels.pdb
